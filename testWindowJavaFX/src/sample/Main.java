@@ -38,6 +38,7 @@ public class Main extends Application {
 //        s.setFill(Color.TRANSPARENT);
         primaryStage.setScene(s);
         primaryStage.show();
+//        Добавили текст
     }
 
     public static void main(String[] args) {
