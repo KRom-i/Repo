@@ -39,6 +39,13 @@ public class Main extends Application {
         primaryStage.setScene(s);
         primaryStage.show();
 //        Добавили текст
+        //        Добавили текст
+        //        Добавили текст
+        //        Добавили текст
+        //        Добавили текст
+        //        Добавили текст//        Добавили текст
+        //        Добавили текст
+
     }
 
     public static void main(String[] args) {
